@@ -28,12 +28,3 @@ This is a basic HTML template that mimics the clean, minimalist style of Wikiped
 '''hml
 <h2>DevOps IA</h2>
 <p>Assignment created by Khushi Poojary</p>
-
-## Example 
-'''hml
-<h2>DevOps IA </h2>
-<p>Assignment created by Khushi Poojary</p>
-
-## Example 
-'''hml
-<h2>DevOps IA </h2>
