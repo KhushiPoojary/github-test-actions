@@ -23,3 +23,8 @@ This is a basic HTML template that mimics the clean, minimalist style of Wikiped
 ```html
 <h2>Example Article Title</h2>
 <p>This is a simple example of a Wikipedia-like article interface.</p>
+
+## Example 
+'''hml
+<h2>DevOps IA</h2>
+<p>Assignment created by Khushi Poojary</p>
