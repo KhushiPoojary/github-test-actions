@@ -24,9 +24,6 @@ This is a basic HTML template that mimics the clean, minimalist style of Wikiped
 <h2>Example Article Title</h2>
 <p>This is a simple example of a Wikipedia-like article interface.</p>
 
-## Example 2
 
-```html
-<h2>Devops ia
 
 
